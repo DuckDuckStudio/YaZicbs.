@@ -1,5 +1,9 @@
-# YaZicbs.
-©YaZicbs.|yaya &amp; YaZicbs  
+# YaZicbs.'s Echo hole
+//©YaZicbs.|yaya &amp; YaZicbs  
+//本代码仅可在 https://box3.codemao.cn/ 上运行。  
+//This code can only be used in https://box3.codemao.cn/  Run on.  
+//代码中的/均为~  
+// / in the code are~  
 //————————————回声洞————————————  
 var HSD;  
 function mathRandomInt(a, b) {  
@@ -53,7 +57,7 @@ world.onPlayerJoin(async ({entity})=>{
         } else if (HSD == 18) {  
             world.say('下周不嘎了，真的吗……');  
         } else if (HSD == 19) {  
-            world.say('喵呜~你好可爱~');  
+            world.say('喵呜/你好可爱/');  
         } else if (HSD == 20) {  
             world.say('开学愉快！');  
         } else if (HSD == 21) {  
@@ -63,7 +67,7 @@ world.onPlayerJoin(async ({entity})=>{
         } else if (HSD == 23) {  
             world.say('人被逼急了啥都能做出来，除了数学题！')  
         } else if (HSD == 24) {  
-            world.say('哇~金色传说！')  
+            world.say('哇/金色传说！')  
         } else if (HSD == 25) {  
             world.say('精 神 小 伙')  
         } else if (HSD == 26) {  
@@ -83,7 +87,7 @@ world.onPlayerJoin(async ({entity})=>{
         } else if (HSD == 33) {  
             world.say('淦翻粉皮怪！')  
         } else if (HSD == 34) {  
-            world.say('爷爷，你关注的鸭鸭终于更新啦~')  
+            world.say('爷爷，你关注的鸭鸭终于更新啦/')  
         } else if (HSD == 35) {  
             world.say('小问号，你是否有很多朋友？')  
         } else if (HSD == 36) {  
