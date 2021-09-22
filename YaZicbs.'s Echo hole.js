@@ -19,7 +19,7 @@ function mathRandomInt(a, b) {
 world.onPlayerJoin(async ({entity})=>{
     while (true) {
         await sleep(20000);
-        HSD = mathRandomInt(1, 49);
+        HSD = mathRandomInt(1, 52);
         world.say('-----回声洞-----');
         if (HSD == 1) {
             world.say('作业补完了吗？');
@@ -123,6 +123,8 @@ world.onPlayerJoin(async ({entity})=>{
             world.say('网址就是来路！')
         } else if (HSD == 51) {
             world.say('现在玩的嗨，待会被夹更嗨！')
+        } else if (HSD == 52) {
+            world.say('鸡你太美')
         } else {
             world.say("error:HSD is on't in 1~49")
         }
