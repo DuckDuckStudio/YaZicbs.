@@ -8,5 +8,5 @@ next  ' 重新进行循环（Cycle again）
 ' 声明：本代码仅供学习使用。
 ' Instructions: before use, you need to copy what you want to paste, and then open the script and quickly click the place you want to paste. This operation does not distinguish between us and the enemy, so if you open other session windows during pasting, oh, it's over.
 ' Declaration: this code is for learning only.
-' 在运行时可以把以REM开头的代码删掉。（例如本行）
-' You can delete the code beginning with REM at run time. 
+' 在运行时可以把以'开头的代码删掉。（例如本行）
+' You can delete the code beginning with ' at run time. 
