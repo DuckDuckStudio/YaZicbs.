@@ -3,7 +3,7 @@ goto start
  = Epilepsy warning
  = 咕咕咕~
  :start
- color 
+color 
 echo 嗨起来!!!
 color 1a
 echo
