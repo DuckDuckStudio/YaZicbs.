@@ -32,6 +32,10 @@ gg.onInteract(async({entity}) => {
         yazicbs.mysxl.cn`,//TEXE的内容
     });
 });
+//关于彩蛋-----------------
+/*const cd1 = world.querySelector('彩蛋entity名')
+......*/
+//测试—--------------------
 world.onVoxelContact(({entity,voxel})=>{
     const block=voxels.id('C')
     if  (voxel===block){
