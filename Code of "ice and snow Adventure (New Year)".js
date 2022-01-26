@@ -47,13 +47,12 @@ world.onVoxelContact(({entity,voxel})=>{
     }
 })
 //sldm----------------------------------
-    world.onPlayerJoin(async ({entity})=>{
-      if (entity.isPlayer) {
-        entity.hurt(entity.maxHp);
-        entity.hp=0;
-      }
-    
-    });
+world.onPlayerJoin(async ({entity})=>{
+  if (entity.isPlayer) {
+    entity.hurt(entity.maxHp);
+    entity.hp=0;
+  }
+});
 //_____________________________________
 world.onVoxelContact(({entity,voxel})=>{
     const block2=voxels.id('carpet_08')
