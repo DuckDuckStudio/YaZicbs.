@@ -27,6 +27,7 @@ gg.onInteract(async({entity}) => {
         `你好，${entity.player.name}，欢迎来到“冰雪大冒险(新年)”。
         模型and建筑：名侦探柯南
         代码：鸭鸭(B站@鸭子出版社)
+        GitHub:DuckPublishingHouse
         Duck studio  (●'◡'●)
         yazicbs.mysxl.cn`,//TEXE的内容
     });
