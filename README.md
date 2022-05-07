@@ -1,3 +1,8 @@
+# 关于我
+Follow me on GitHub：https://github.com/DuckPublishingHouse  
+Follow me on Twitter：https://twitter.com/JinchengFang  
+Join we Discord：https://discord.gg/BYWhZqWQ6t  
+
 # 代码库YaZicbs.
 欢迎查看我们的代码库，在这里我们将放置一些开源代码，欢迎各位参考和提出建议！  
 如需使用(个人使用除外)请将要使用的地方发送至我们的邮箱并在使用的地方标明来自鸭鸭工作室(Duck studio)。谢谢！  
