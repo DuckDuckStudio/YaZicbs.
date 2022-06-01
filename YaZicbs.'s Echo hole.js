@@ -1,7 +1,5 @@
 /*
 ©YaZicbs.|yaya &amp; YaZicbs
-这是Java Script 代码，不是python代码！
-Is Java Script code, no't python code!
 本代码仅可在 https://box3.codemao.cn/ 上运行。
 This code can only be used in https://box3.codemao.cn/ Run on.
 */
@@ -16,7 +14,7 @@ function mathRandomInt(a, b) {
     }
     return Math.floor(Math.random() * (b - a + 1) + a);
 }
-world.onPlayerJoin(async ({entity})=>{
+world.onPlayerJoin(async ({entity})=>{//<-
     while (true) {
         await sleep(20000);
         HSD = mathRandomInt(1, 52);
