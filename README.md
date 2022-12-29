@@ -16,7 +16,7 @@ Join we Discord：https://discord.gg/BYWhZqWQ6t
 您是___吗？  
   |I don't kown.  
 # 关注我们
-B站*、西瓜视频、抖音：@鸭子出版社  
+B站：@鸭鸭_カモ  
 YouTube:@Duck Publishing House  
 Scratch:@Duck_studio  
 # 贡献
