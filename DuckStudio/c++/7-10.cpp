@@ -13,7 +13,9 @@ int main () {
 				isPrime=true;
 				break;
 			}
+			//cout<<endl<<"DB:"<<t<<" "<<m%t<<endl;
 		}
+		t=2;
 		if (isPrime) {
 			cout<<"No";
 		}else{
