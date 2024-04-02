@@ -10,7 +10,7 @@ Join we Discord：https://discord.gg/BYWhZqWQ6t
 ©Duck studio 2021 | YaZicbs.|yaya &amp; YaZicbs
 # 常见问题
 这个存储库还会更新吗？  
-  |会的  
+  |会的，但更新较少。 
 我可以把这个存储库的代码复制到我自己的作品上面吗？  
   |可以，但您要将要使用的地方发送至我们的邮箱并在使用的地方标明来自鸭鸭工作室(Duck studio)。  
 您是___吗？  
